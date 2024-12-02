@@ -2,8 +2,7 @@
 This is a local shellcode injector that runs the **MsfVenom "Calc.exe"** payload after decrypting it. The shellcode is encrypted and decrypted using a simple XOR cypher.
 ___
 
-On (Virus Total)[https://www.virustotal.com/gui/file/3a3ef38f2f866a7bd5d6ae3254b3506c1888480813a711291f1013f5639c02ce/detection] it scores 20/72. 
-
+On [Virus Total](https://www.virustotal.com/gui/file/3a3ef38f2f866a7bd5d6ae3254b3506c1888480813a711291f1013f5639c02ce/detection) it scores 20/72. 
 Compile using *Visual Studio* or *download* and **run at your own risk.**
 ___
 ### Detailed explanation:
